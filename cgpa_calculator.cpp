@@ -11,7 +11,7 @@ int main()
     double totalCredits = 0.0;
     double gpa = 0.0;
     
-    vector<pair<double, double>> courses; // Store grade and credits
+    vector<pair<double, double>> courses; // Store grade and credit
     
     cout << "\n========== CGPA CALCULATOR ==========" << endl;
     cout << "\nEnter the number of courses: ";
